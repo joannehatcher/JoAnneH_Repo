@@ -1,101 +1,81 @@
-Data Analytics Portfolio
-Overview
+# Data Analytics Portfolio
 
-This repository showcases my data analytics projects and demonstrates my ability to collect, clean, analyze, and visualize data using Python and related data analytics tools.
+## About This Portfolio
 
-The projects demonstrate an end-to-end data analysis workflow, from obtaining and preparing data to performing exploratory analysis and communicating findings through visualizations and presentations.
+This repository showcases my data analytics projects and demonstrates my ability to collect, clean, analyze, and visualize data using **Python** and related analytics tools.
 
-Skills & Tools
+The projects demonstrate an end-to-end data analysis workflow, from data collection and preparation through exploratory analysis, visualization, and presentation of findings.
 
-Python
+## Tools & Technical Skills
 
-Pandas
+- **Python**
+- **Pandas**
+- **Matplotlib**
+- **Jupyter Notebooks**
+- **Data Cleaning & Preparation**
+- **Data Wrangling**
+- **Exploratory Data Analysis (EDA)**
+- **Data Visualization**
+- **Data Analysis**
+- **HTML / Web Data Collection**
 
-Matplotlib
+## Data Analytics Process
 
-Data Cleaning & Preparation
+The projects in this portfolio demonstrate the following analytical process:
 
-Exploratory Data Analysis (EDA)
+1. **Data Collection** — Obtain data from available sources and prepare it for analysis.
+2. **Data Wrangling** — Clean, organize, transform, and structure datasets for analysis.
+3. **Exploratory Data Analysis** — Examine patterns, relationships, trends, and potential data issues.
+4. **Data Visualization** — Create charts and visualizations to communicate important findings.
+5. **Analysis & Interpretation** — Identify meaningful observations and summarize results.
+6. **Presentation & Communication** — Present analytical findings and conclusions in a clear and organized format.
 
-Data Visualization
+## Project Structure
 
-Data Wrangling
-
-Data Analysis
-
-Jupyter Notebooks
-
-HTML / Web Data Collection
-
-Analytics Workflow
-
-The projects in this repository demonstrate the following workflow:
-
-Data Collection – Obtain data from available sources and prepare it for analysis.
-
-Data Wrangling – Clean, organize, transform, and structure datasets for analysis.
-
-Exploratory Data Analysis – Examine data patterns, relationships, trends, and potential issues.
-
-Data Visualization – Create charts and visualizations to communicate important findings.
-
-Analysis & Interpretation – Identify meaningful observations and summarize results.
-
-Presentation – Communicate analytical findings and conclusions in a clear and organized format.
-
-Repository Structure
-Data Collection
+### Data Collection
 
 Contains files and work related to obtaining and importing data for analysis.
 
-Data Wrangling
+### Data Wrangling
 
-Contains data-cleaning and transformation work, including preparation of datasets for analysis.
+Contains data-cleaning and transformation work used to prepare datasets for analysis.
 
-Exploratory Data Analysis
+### Exploratory Data Analysis
 
-Contains analysis used to investigate patterns, relationships, trends, and characteristics within the data.
+Contains analytical work used to investigate patterns, relationships, trends, and characteristics within the data.
 
-Data Visualization
+### Data Visualization
 
 Contains charts and visualizations created to communicate analytical findings.
 
-Presentation
+### Presentation
 
 Contains presentation materials summarizing the analysis, findings, and conclusions.
 
-Featured Skills Demonstrated
+## Key Skills Demonstrated
 
-This portfolio demonstrates my ability to:
+Through these projects, I demonstrate the ability to:
 
-Work with structured datasets
+- Work with structured datasets
+- Clean and prepare data for analysis
+- Use **Python** and **Pandas** for data manipulation
+- Perform exploratory data analysis
+- Create visualizations using **Matplotlib**
+- Identify trends and patterns in data
+- Communicate analytical findings
+- Organize and document an end-to-end analytics workflow
 
-Clean and prepare data for analysis
+## Professional Background
 
-Use Python and Pandas for data manipulation
+I have a background in **healthcare operations, quality improvement, and technology**, supported by a **Bachelor of Science in Computer Science** and **Master of Business Administration (MBA)**. I also completed the **IBM Data Analyst Professional Certificate**.
 
-Perform exploratory data analysis
+My professional experience includes **quality assurance, healthcare data, reporting, process improvement, SharePoint, Power BI, Power Apps, Power Automate, SQL, Microsoft Access, and VBA**.
 
-Create visualizations using Matplotlib
+I am particularly interested in opportunities involving **data analytics, healthcare analytics, Health IT, quality analytics, business analysis, and process improvement**.
 
-Identify trends and patterns in data
+## Contact
 
-Communicate analytical findings
+**Joanne Hatcher**
 
-Organize and document an end-to-end analytics workflow
-
-About Me
-
-I have a background in healthcare operations, quality improvement, and technology, with a Bachelor of Science in Computer Science and Master of Business Administration (MBA). I also completed the IBM Data Analyst Professional Certificate.
-
-My professional experience includes quality assurance, healthcare data, reporting, process improvement, SharePoint, Power BI, Power Apps, Power Automate, SQL, Microsoft Access, and VBA.
-
-I am particularly interested in opportunities involving data analytics, healthcare analytics, Health IT, quality analytics, business analysis, and process improvement.
-
-Contact
-
-Joanne Hatcher
-
-GitHub: github.com/joannehatcher
-
-LinkedIn: linkedin.com/in/joanne-hatcher-healthit
+- **GitHub:** [github.com/joannehatcher](https://github.com/joannehatcher)
+- **LinkedIn:** [linkedin.com/in/joanne-hatcher-healthit](https://www.linkedin.com/in/joanne-hatcher-healthit)
