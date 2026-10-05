@@ -4,7 +4,7 @@
 
 This repository showcases my data analytics projects and demonstrates my ability to collect, clean, analyze, and visualize data using **Python** and related analytics tools.
 
-The projects demonstrate an end-to-end data analysis workflow, from data collection and preparation through exploratory analysis, visualization, and presentation of findings.
+The projects collectively demonstrate different stages of the data analysis workflow, from data collection and preparation through exploratory analysis, visualization, and presentation of findings.
 
 ## Tools & Technical Skills
 
