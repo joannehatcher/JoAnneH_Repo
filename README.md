@@ -23,10 +23,10 @@ The projects demonstrate an end-to-end data analysis workflow, from data collect
 
 The projects in this portfolio demonstrate the following analytical process:
 
-1. **Data Collection** — Obtain data from available sources and prepare it for analysis.
-2. **Data Wrangling** — Clean, organize, transform, and structure datasets for analysis.
-3. **Exploratory Data Analysis** — Examine patterns, relationships, trends, and potential data issues.
-4. **Data Visualization** — Create charts and visualizations to communicate important findings.
+1. [**Data Collection**](https://github.com/joannehatcher/JoAnneH_Repo/tree/main/data_collection) — Obtain data from available sources and prepare it for analysis.
+2. [**Data Wrangling**](https://github.com/joannehatcher/JoAnneH_Repo/tree/main/data_wrangling) — Clean, organize, transform, and structure datasets for analysis.
+3. [**Exploratory Data Analysis**](https://github.com/joannehatcher/JoAnneH_Repo/tree/main/exploratory_data_analysis) — Examine patterns, relationships, trends, and potential data issues.
+4. [**Data Visualization**](https://github.com/joannehatcher/JoAnneH_Repo/tree/main/data_visualization) — Create charts and visualizations to communicate important findings.
 5. **Analysis & Interpretation** — Identify meaningful observations and summarize results.
 6. **Presentation & Communication** — Present analytical findings and conclusions in a clear and organized format.
 
