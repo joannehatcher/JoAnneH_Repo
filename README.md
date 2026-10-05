@@ -64,5 +64,5 @@ I am particularly interested in opportunities involving **data analytics, health
 
 **Joanne Hatcher**
 
-- **GitHub:** [github.com/joannehatcher](https://github.com/joannehatcher)
-- **LinkedIn:** [linkedin.com/in/joanne-hatcher-healthit](https://www.linkedin.com/in/joanne-hatcher-healthit)
+- [**GitHub**](https://github.com/joannehatcher)
+- [**LinkedIn**](https://www.linkedin.com/in/joanne-hatcher-healthit)
