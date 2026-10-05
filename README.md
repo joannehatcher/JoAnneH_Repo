@@ -52,19 +52,6 @@ Contains charts and visualizations created to communicate analytical findings.
 
 Contains presentation materials summarizing the analysis, findings, and conclusions.
 
-## Key Skills Demonstrated
-
-Through these projects, I demonstrate the ability to:
-
-- Work with structured datasets
-- Clean and prepare data for analysis
-- Use **Python** and **Pandas** for data manipulation
-- Perform exploratory data analysis
-- Create visualizations using **Matplotlib**
-- Identify trends and patterns in data
-- Communicate analytical findings
-- Organize and document an end-to-end analytics workflow
-
 ## Professional Background
 
 I have a background in **healthcare operations, quality improvement, and technology**, supported by a **Bachelor of Science in Computer Science** and **Master of Business Administration (MBA)**. I also completed the **IBM Data Analyst Professional Certificate**.
